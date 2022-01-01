@@ -2,5 +2,5 @@
 Lab2
 
 
-To Remove dev branch and test branch locally and remotly
-<br>
+<strong>To Remove dev branch and test branch locally and remotly:
+
