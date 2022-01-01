@@ -16,6 +16,6 @@
 
 
 
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&psig=AOvVaw3x8lqNUTThSa_AcixdQCaU&ust=1641136380508000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC_m8nrkPUCFQAAAAAdAAAAABAD">
+<img src = "https://git-scm.com/downloads/logos">
 
 
