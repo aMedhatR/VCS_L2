@@ -16,6 +16,6 @@
 
 
 
-<img src = "https://git-scm.com/downloads/logos">
+<img src = "1.png" alt = "git image">
 
 
